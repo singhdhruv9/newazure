@@ -1,0 +1,9 @@
+{
+	"name": "dftestingdhruv",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d2cc70b5-5d56-4fc2-9d49-9a8250e776f6",
+		"tenantId": "178ba438-e47a-444a-bbfa-f82e4a6d31a4"
+	}
+}
