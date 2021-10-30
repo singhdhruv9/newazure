@@ -1,0 +1,9 @@
+{
+	"name": "tootoughdf",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7d6d0bcf-041e-4855-a833-f4a72be7bc85",
+		"tenantId": "d0355071-7c26-452e-9112-aa5514dc9676"
+	}
+}
